@@ -1,0 +1,74 @@
+[
+    {
+        "id": 0,
+        "name": "Covenant",
+        "image": "Ship0",
+        "price": 200
+    },
+    {
+        "id": 1,
+        "name": "Kennedy",
+        "image": "Ship1",
+        "price": 150
+    },
+    {
+        "id": 2,
+        "name": "Constantine",
+        "image": "Ship2",
+        "price": 300
+    },
+    {
+        "id": 3,
+        "name": "Evolution",
+        "image": "Ship3",
+        "price": 400
+    },
+    {
+        "id": 4,
+        "name": "Nostradamus",
+        "image": "Ship4",
+        "price": 200
+    },
+    {
+        "id": 5,
+        "name": "Thunderbolt",
+        "image": "Ship5",
+        "price": 500
+    },
+    {
+        "id": 6,
+        "name": "Malta",
+        "image": "Ship6",
+        "price": 700
+    },
+    {
+        "id": 7,
+        "name": "Gallimimus",
+        "image": "Ship7",
+        "price": 600
+    },
+    {
+        "id": 8,
+        "name": "Revenant",
+        "image": "Ship8",
+        "price": 400
+    },
+    {
+        "id": 9,
+        "name": "Ravana",
+        "image": "Ship9",
+        "price": 200
+    },
+    {
+        "id": 10,
+        "name": "Tennessee",
+        "image": "Ship10",
+        "price": 300
+    },
+    {
+        "id": 11,
+        "name": "Nomad",
+        "image": "Ship11",
+        "price": 500
+    }
+]

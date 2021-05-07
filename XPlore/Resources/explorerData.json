@@ -1,0 +1,779 @@
+[
+    {
+      "Name": "Alamsyah Oktavian Santoso",
+      "Photo": "https://dl.airtable.com/.attachments/1b8a297ad554dfa22231ba3fa5f50ff5/2848d454/Alamsyah.jpg",
+      "Expertise": "Design",
+      "Team": "Team 2 / Udin's Adventure",
+      "Shift": "Afternoon"
+    },
+    {
+      "Name": "Bramantya Putra Teja",
+      "Photo": "https://dl.airtable.com/.attachments/c03b1335f589e915426428d553f07b0c/107e94e3/BramantyaPutra.jpg",
+      "Expertise": "Design",
+      "Team": "Team 9 / Lai Team",
+      "Shift": "Afternoon"
+    },
+    {
+      "Name": "Henry David Lie",
+      "Photo": "https://dl.airtable.com/.attachments/a21a30ff756f18d90fe820e6ce1f8473/842d271a/HenryDavid.jpg",
+      "Expertise": "Tech / IT / IS",
+      "Team": "Team 4/ Money Gang",
+      "Shift": "Afternoon"
+    },
+    {
+      "Name": "Jonathan Andrei Wibawa",
+      "Photo": "https://dl.airtable.com/.attachments/5935276b227186736c693cc212f12a3c/42478180/JonathanAndrei.jpg",
+      "Expertise": "Tech / IT / IS",
+      "Team": "Team 5 / Apatite",
+      "Shift": "Afternoon"
+    },
+    {
+      "Name": "Natasya Dahliana Lulu",
+      "Photo": "https://dl.airtable.com/.attachments/cf61bff3b4d66c940473c25102b71603/1a47145d/NatasyaDahliana.jpg",
+      "Expertise": "Tech / IT / IS",
+      "Team": "Team 1 / DeeJay",
+      "Shift": "Afternoon"
+    },
+    {
+      "Name": "Dhienaqueen",
+      "Photo": "https://dl.airtable.com/.attachments/b1727551ca0100edf79c88ed9f0a190b/e4864c94/Dhienaqueen.jpg",
+      "Expertise": "Design",
+      "Team": "Team 2 / Udin's Adventure",
+      "Shift": "Afternoon"
+    },
+    {
+      "Name": "Jessica Wienadi",
+      "Photo": "https://dl.airtable.com/.attachments/ecc7120ad4087153d6af35ada2042ea1/d1b0a456/JessicaWienadi.jpg",
+      "Expertise": "Tech / IT / IS",
+      "Team": "Team 5 / Apatite",
+      "Shift": "Afternoon"
+    },
+    {
+      "Name": "Kezia Yovita Chandra",
+      "Photo": "https://dl.airtable.com/.attachments/b568a4abb252b58a346328e8f4053a4c/892ada92/KeziaYovita.jpg",
+      "Expertise": "Tech / IT / IS",
+      "Team": "Team 1 / DeeJay",
+      "Shift": "Afternoon"
+    },
+    {
+      "Name": "Willy Yunus Islami",
+      "Photo": "https://dl.airtable.com/.attachments/f56ffa1f4ebc3b9ed7ae9ef8326a6c8c/da276bf2/WillyYunus.jpg",
+      "Expertise": "Tech / IT / IS",
+      "Team": "Team 1 / DeeJay",
+      "Shift": "Afternoon"
+    },
+    {
+      "Name": "Adimas Surya Perdana Putra",
+      "Photo": "https://dl.airtable.com/.attachments/906cf26ed1b7bef86b90c8ab9525dde8/6ca931f4/AdimasSurya.jpg",
+      "Expertise": "Tech / IT / IS",
+      "Team": "Team 10 / Sarap",
+      "Shift": "Afternoon"
+    },
+    {
+      "Name": "Bevan Christian",
+      "Photo": "https://dl.airtable.com/.attachments/ca924bc90bb5e25b7b2f7023d31be19d/f4a9f7a7/BevanChristian.jpg",
+      "Expertise": "Tech / IT / IS",
+      "Team": "Team 9 / Lai Team",
+      "Shift": "Afternoon"
+    },
+    {
+      "Name": "Raden Roro Ayunda Yahdis Sabila",
+      "Photo": "https://dl.airtable.com/.attachments/16d580fa7189d2d53af38da1244e8237/851e6c9d/RadenRoroAyunda.jpg",
+      "Expertise": "Design",
+      "Team": "Team 1 / DeeJay",
+      "Shift": "Afternoon"
+    },
+    {
+      "Name": "Ricky Gideon Iskandar Daun",
+      "Photo": "https://dl.airtable.com/.attachments/1637c62c023460835fc9853840452f01/5af44ca1/RickyGideon.jpg",
+      "Expertise": "Tech / IT / IS",
+      "Team": "Team 8 / BRANSM",
+      "Shift": "Afternoon"
+    },
+    {
+      "Name": "Felicia Devina Siswanto",
+      "Photo": "https://dl.airtable.com/.attachments/f4e031566703e5624dba9aa9a279c9ae/39b8226d/FeliciaDevina.jpg",
+      "Expertise": "Tech / IT / IS",
+      "Team": "Team 6 / Game",
+      "Shift": "Afternoon"
+    },
+    {
+      "Name": "Fransiscus Verrol Yaurentius",
+      "Photo": "https://dl.airtable.com/.attachments/401fc8ade2435a1eec915eb4d7a1be9d/6c432a76/FransiscusVerrol.jpg",
+      "Expertise": "Tech / IT / IS",
+      "Team": "Team 6 / Game",
+      "Shift": "Afternoon"
+    },
+    {
+      "Name": "Naufal Aziz Imaduddin",
+      "Photo": "https://dl.airtable.com/.attachments/23df9d09202c477288fe167e0fff084f/fdf426ec/NaufalAziz.jpg",
+      "Expertise": "Design",
+      "Team": "Team 8 / BRANSM",
+      "Shift": "Afternoon"
+    },
+    {
+      "Name": "Samuel Putra Soegiono",
+      "Photo": "https://dl.airtable.com/.attachments/617e489870a1ecdbe21fb3144f254e9c/937544f5/SamuelPutra.jpg",
+      "Expertise": "Domain Expert (Keahlian Khusus)",
+      "Team": "Team 8 / BRANSM",
+      "Shift": "Afternoon"
+    },
+    {
+      "Name": "Shelina Linardi",
+      "Photo": "https://dl.airtable.com/.attachments/02c11718398ace4640f2553833483984/4d592a05/ShelinaLinardi.jpg",
+      "Expertise": "Tech / IT / IS",
+      "Team": "Team 3 / Subur Gaming",
+      "Shift": "Afternoon"
+    },
+    {
+      "Name": "Davin Djayadi",
+      "Photo": "https://dl.airtable.com/.attachments/eb39aecb3d63be34fea0f9d9d1ee8887/1647200a/DavinDjayadi.jpg",
+      "Expertise": "Tech / IT / IS",
+      "Team": "Team 2 / Udin's Adventure",
+      "Shift": "Afternoon"
+    },
+    {
+      "Name": "Geralda Carnelian Tantra",
+      "Photo": "https://dl.airtable.com/.attachments/8f1af7b811e37b01a3afba4abb104157/5a7ea2ac/GeraldaCarnelian.jpg",
+      "Expertise": "Design",
+      "Team": "Team 4/ Money Gang",
+      "Shift": "Afternoon"
+    },
+    {
+      "Name": "Sadrakh Setyo Bekti",
+      "Photo": "https://dl.airtable.com/.attachments/40590add0e81ff6dc5ceab3b21d2b613/f5abf940/SadrakhSetyo.jpg",
+      "Expertise": "Domain Expert (Keahlian Khusus)",
+      "Team": "Team 7 afternoon",
+      "Shift": "Afternoon"
+    },
+    {
+      "Name": "Vincentius Phillips Zhuputra",
+      "Photo": "https://dl.airtable.com/.attachments/2f5e2cda1eee9b82e858941d9377e866/e6f32e3d/VincentiusPhillips.jpg",
+      "Expertise": "Tech / IT / IS",
+      "Team": "Team 6 / Game",
+      "Shift": "Afternoon"
+    },
+    {
+      "Name": "Zefanya Sharon",
+      "Photo": "https://dl.airtable.com/.attachments/e503c76203ad1db908286d83baec2bc9/253812f6/ZefanyaSharon.jpg",
+      "Expertise": "Tech / IT / IS",
+      "Team": "Team 10 / Sarap",
+      "Shift": "Afternoon"
+    },
+    {
+      "Name": "Ahmad Nur Alifullah",
+      "Photo": "https://dl.airtable.com/.attachments/c4b07d0b158a5feefd08927bc4914036/9dce28cd/AhmadNur.jpg",
+      "Expertise": "Tech / IT / IS",
+      "Team": "Team 10 / Sarap",
+      "Shift": "Afternoon"
+    },
+    {
+      "Name": "Alvin Hariyono",
+      "Photo": "https://dl.airtable.com/.attachments/209b474db2a862a50ce4980a1a1ee8f7/1c97e418/AlvinHariyono.jpg",
+      "Expertise": "Tech / IT / IS",
+      "Team": "Team 4/ Money Gang",
+      "Shift": "Afternoon"
+    },
+    {
+      "Name": "Jessica Vania",
+      "Photo": "https://dl.airtable.com/.attachments/a756c255bafe3cf99127d99ef4e35fc6/5385d719/JessicaVania.jpg",
+      "Expertise": "Design",
+      "Team": "Team 5 / Apatite",
+      "Shift": "Afternoon"
+    },
+    {
+      "Name": "Kevin Jonathan",
+      "Photo": "https://dl.airtable.com/.attachments/a9528f516f9e20b7c3b75c8a61885955/993239ca/KevinJonathan.jpg",
+      "Expertise": "Tech / IT / IS",
+      "Team": "Team 7 afternoon",
+      "Shift": "Afternoon"
+    },
+    {
+      "Name": "Dandy Rilo Hariyono",
+      "Photo": "https://dl.airtable.com/.attachments/d678e80c3a432702268a042d23136b0e/3dc358dc/DandyRilo.jpg",
+      "Expertise": "Domain Expert (Keahlian Khusus)",
+      "Team": "Team 7 afternoon",
+      "Shift": "Afternoon"
+    },
+    {
+      "Name": "David Aurelius Tandjung",
+      "Photo": "https://dl.airtable.com/.attachments/aefbe46c66d93141a7a65373aaee1b6f/38b8eeff/DavidAurelius.jpg",
+      "Expertise": "Tech / IT / IS",
+      "Team": "Team 3 / Subur Gaming",
+      "Shift": "Afternoon"
+    },
+    {
+      "Name": "Muhammad Alkaff",
+      "Photo": "https://dl.airtable.com/.attachments/49904194ee31d4540fdc830c1aa76c77/880b753c/MuhammadAlkaff.jpg",
+      "Expertise": "Tech / IT / IS",
+      "Team": "Team 3 / Subur Gaming",
+      "Shift": "Afternoon"
+    },
+    {
+      "Name": "Nadya Natasha",
+      "Photo": "https://dl.airtable.com/.attachments/c9a6af2033929968b35ccd923ce7cf1d/b87d0b0b/NadyaNatasha.jpg",
+      "Expertise": "Design",
+      "Team": "Team 9 / Lai Team",
+      "Shift": "Afternoon"
+    },
+    {
+      "Name": "Winner Tjandrawan",
+      "Photo": "https://dl.airtable.com/.attachments/227c2bb805435d10d52ad015f57e4d5c/3417a64c/WinnerTjandrawan.jpg",
+      "Expertise": "Tech / IT / IS",
+      "Team": "Team 3 / Subur Gaming",
+      "Shift": "Afternoon"
+    },
+    {
+      "Name": "Angelica Roseanne",
+      "Photo": "https://dl.airtable.com/.attachments/42fda7f9a6380bfcaf6e1e419ae5a512/b361b1e8/AngelicaRoseanne.jpg",
+      "Expertise": "Tech / IT / IS",
+      "Team": "Team 6 / Game",
+      "Shift": "Afternoon"
+    },
+    {
+      "Name": "Fredrik Pridatirta",
+      "Photo": "https://dl.airtable.com/.attachments/ad6a1002d1caf9007f42af8debee4502/bc93f4ef/FredrikPridatirta.jpg",
+      "Expertise": "Design",
+      "Team": "Team 1 / DeeJay",
+      "Shift": "Afternoon"
+    },
+    {
+      "Name": "Michael Hans Kristian Hardjo",
+      "Photo": "https://dl.airtable.com/.attachments/9e14ce531dd7ac99d2ce956944a618c9/49fd8f6e/MichaelHans.jpg",
+      "Expertise": "Tech / IT / IS",
+      "Team": "Team 2 / Udin's Adventure",
+      "Shift": "Afternoon"
+    },
+    {
+      "Name": "Priscilla Vanny Amelia",
+      "Photo": "https://dl.airtable.com/.attachments/247a07bc70bb549c7430ca58da4fb568/d6e14e2d/PriscillaVanny.jpg",
+      "Expertise": "Tech / IT / IS",
+      "Team": "Team 10 / Sarap",
+      "Shift": "Afternoon"
+    },
+    {
+      "Name": "Adam Gilbert",
+      "Photo": "https://dl.airtable.com/.attachments/5e787b3e09be13d152bcf33e41160563/3e2e080b/AdamGilbert.jpg",
+      "Expertise": "Domain Expert (Keahlian Khusus)",
+      "Team": "Team 5 / Apatite",
+      "Shift": "Afternoon"
+    },
+    {
+      "Name": "Indi Amelia Kusuma",
+      "Photo": "https://dl.airtable.com/.attachments/b4abd04ab4d4e738ceac63b70b1126e6/b2ff45ae/IndiAmelia.jpg",
+      "Expertise": "Design",
+      "Team": "Team 7 afternoon",
+      "Shift": "Afternoon"
+    },
+    {
+      "Name": "Melisa Krisnawati",
+      "Photo": "https://dl.airtable.com/.attachments/c7c1955fd719ac74d691ff98e61d654d/4a09d3c1/MelisaKrisnawati.jpg",
+      "Expertise": "Tech / IT / IS",
+      "Team": "Team 8 / BRANSM",
+      "Shift": "Afternoon"
+    },
+    {
+      "Name": "Reinaldo Lewis Lordianto",
+      "Photo": "https://dl.airtable.com/.attachments/fdc2edcdf099b9d220e00903e5c277ee/89f663f4/ReinaldoLewis.jpg",
+      "Expertise": "Tech / IT / IS",
+      "Team": "Team 6 / Game",
+      "Shift": "Afternoon"
+    },
+    {
+      "Name": "Wildan Ghiffarie Budhi",
+      "Photo": "https://dl.airtable.com/.attachments/df8556dc1927c13a86bbc52578f75ef9/e6b6462e/WildanGhiffarie.jpg",
+      "Expertise": "Tech / IT / IS",
+      "Team": "Team 4/ Money Gang",
+      "Shift": "Afternoon"
+    },
+    {
+      "Name": "Dimas Agung Prabowo",
+      "Photo": "https://dl.airtable.com/.attachments/34b1bf4e7d59dd404eb770d733881f4c/c9cd60c3/DimasAgung.jpg",
+      "Expertise": "Tech / IT / IS",
+      "Team": "Team 2 / Udin's Adventure",
+      "Shift": "Afternoon"
+    },
+    {
+      "Name": "Risa Santoso",
+      "Photo": "https://dl.airtable.com/.attachments/71d52ccff207119ba813ac55a7761d0a/14eb9070/RisaSantoso.jpg",
+      "Expertise": "Domain Expert (Keahlian Khusus)",
+      "Team": "Team 7 afternoon",
+      "Shift": "Afternoon"
+    },
+    {
+      "Name": "Rubby Handojo",
+      "Photo": "https://dl.airtable.com/.attachments/b52b5f1a5afb7304bfae3a49201ee95a/50a5df63/RubbyHandojo.jpg",
+      "Expertise": "Tech / IT / IS",
+      "Team": "Team 10 / Sarap",
+      "Shift": "Afternoon"
+    },
+    {
+      "Name": "Shelin Kezia Handoko",
+      "Photo": "https://dl.airtable.com/.attachments/45ef8851972bf665bb3259cd2cc8b388/19631e25/S__2080798.jpg",
+      "Expertise": "Design",
+      "Team": "Team 5 / Apatite",
+      "Shift": "Afternoon"
+    },
+    {
+      "Name": "Yanandra Dhafa",
+      "Photo": "https://dl.airtable.com/.attachments/b475a9b9636f260b30ea5762a9a83030/8559765c/YanandraDhafa.jpg",
+      "Expertise": "Tech / IT / IS",
+      "Team": "Team 9 / Lai Team",
+      "Shift": "Afternoon"
+    },
+    {
+      "Name": "Ammar",
+      "Photo": "https://dl.airtable.com/.attachments/393087b3880ded51fd865f8b79e3fe1a/3b59b0fa/Ammar.jpg",
+      "Expertise": "Tech / IT / IS",
+      "Team": "Team 4/ Money Gang",
+      "Shift": "Afternoon"
+    },
+    {
+      "Name": "Jennifer Nathania",
+      "Photo": "https://dl.airtable.com/.attachments/a059ecd4f0a72cd11ee825e49e32c614/4483a79a/JenniferNathania.jpg",
+      "Expertise": "Design",
+      "Team": "Team 9 / Lai Team",
+      "Shift": "Afternoon"
+    },
+    {
+      "Name": "Neville Natalio Davisan",
+      "Photo": "https://dl.airtable.com/.attachments/04ebc1db83db4481968147aa3da4d5f1/947915e6/NevilleNatalio.jpg",
+      "Expertise": "Tech / IT / IS",
+      "Team": "Team 3 / Subur Gaming",
+      "Shift": "Afternoon"
+    },
+    {
+      "Name": "Nicklaus Fumihiro Wibowo",
+      "Photo": "https://dl.airtable.com/.attachments/bf8e1aaa80d9a330a89a78692afecd85/c0b0db6a/NicklausFumihiro.jpg",
+      "Expertise": "Tech / IT / IS",
+      "Team": "Team 8 / BRANSM",
+      "Shift": "Afternoon"
+    },
+    {
+      "Name": "Ang Natasia Stephanie Setiyadi",
+      "Photo": "https://dl.airtable.com/.attachments/3246405be267b7835cdefafa888e2c73/4972cb3a/AngNatasia.jpg",
+      "Expertise": "Design",
+      "Team": "Team 5 / Art",
+      "Shift": "Morning"
+    },
+    {
+      "Name": "Dzulfikar Ali Maskur",
+      "Photo": "https://dl.airtable.com/.attachments/e1a40ed31b18269aab8fcf71bfaef1fe/1b2244f6/DzulfikarAli.jpg",
+      "Expertise": "Tech / IT / IS",
+      "Team": "Team 10 / Arindra",
+      "Shift": "Morning"
+    },
+    {
+      "Name": "Goldianus Solangius Mbete",
+      "Photo": "https://dl.airtable.com/.attachments/66d4ce76c58d95a4d500be2075069b99/36c03d0c/GoldianusSolangius.jpg",
+      "Expertise": "Design",
+      "Team": "Team 2 / SOBSPORT",
+      "Shift": "Morning"
+    },
+    {
+      "Name": "Moh Supandi",
+      "Photo": "https://dl.airtable.com/.attachments/0f830c65253a55aa0e68422dfb2ae42c/834fcba4/MohSupandi.jpg",
+      "Expertise": "Tech / IT / IS",
+      "Team": "Team 7 / Food",
+      "Shift": "Morning"
+    },
+    {
+      "Name": "Wilfredo Alexander Sutanto",
+      "Photo": "https://dl.airtable.com/.attachments/4b419988622922a0e8a62d3173f639ab/54eac5c1/WilfredoAlexander.jpg",
+      "Expertise": "Tech / IT / IS",
+      "Team": "Team 3 / MyPet",
+      "Shift": "Morning"
+    },
+    {
+      "Name": "Bryan Khufa Rahmada Aula",
+      "Photo": "https://dl.airtable.com/.attachments/dc5a5cdf41dff1a7c3df01adba947cc7/8a661eff/BryanKhufa.jpg",
+      "Expertise": "Tech / IT / IS",
+      "Team": "Team 9 / Martian",
+      "Shift": "Morning"
+    },
+    {
+      "Name": "Christine Chen",
+      "Photo": "https://dl.airtable.com/.attachments/c44ddeabcab3f52f998555e522852fed/1ae7f515/ChristineChen.jpg",
+      "Expertise": "Domain Expert (Keahlian Khusus)",
+      "Team": "Team 7 / Food",
+      "Shift": "Morning"
+    },
+    {
+      "Name": "Stanislaus Sunday",
+      "Photo": "https://dl.airtable.com/.attachments/88d79f6b7514529b8ffb16421c0d6dac/2577a1a6/StanislausSunday.jpg",
+      "Expertise": "Tech / IT / IS",
+      "Team": "Team 5 / Art",
+      "Shift": "Morning"
+    },
+    {
+      "Name": "Yayang Rahmadina",
+      "Photo": "https://dl.airtable.com/.attachments/412027dd8e3111610bb146c50da52719/c1bdd1fa/YayangRahmadina.jpg",
+      "Expertise": "Tech / IT / IS",
+      "Team": "Team 4 / Edtech",
+      "Shift": "Morning"
+    },
+    {
+      "Name": "Yeremia Adicipta Santosa",
+      "Photo": "https://dl.airtable.com/.attachments/a9415a3ab6ad9798bb765952ea2355a7/96ca3e44/YeremiaAdicipta.jpg",
+      "Expertise": "Design",
+      "Team": "Team 6 / Mansae",
+      "Shift": "Morning"
+    },
+    {
+      "Name": "Evelin Candratio",
+      "Photo": "https://dl.airtable.com/.attachments/fc96b577316748d90dec1ebdfa67a563/58825780/EvelinCandratio.jpg",
+      "Expertise": "Tech / IT / IS",
+      "Team": "Team 10 / Arindra",
+      "Shift": "Morning"
+    },
+    {
+      "Name": "Felyn Karina Bingtoyo",
+      "Photo": "https://dl.airtable.com/.attachments/5e510cafde097458f18d934c2b8eeebe/e13f6740/FelynKarina.jpg",
+      "Expertise": "Design",
+      "Team": "Team 7 / Food",
+      "Shift": "Morning"
+    },
+    {
+      "Name": "Muhamad Thio Basudewo",
+      "Photo": "https://dl.airtable.com/.attachments/d68a7d3193383b1ecb98e135d9eeee72/c0607a94/MuhamadThio.jpg",
+      "Expertise": "Tech / IT / IS",
+      "Team": "Team 1 / As Swift As Possible",
+      "Shift": "Morning"
+    },
+    {
+      "Name": "Ni Putu Mira Novita Dewi",
+      "Photo": "https://dl.airtable.com/.attachments/b0ad96faa7b0134ec16538bcf1269690/8d1c2679/NiPutuMira.jpg",
+      "Expertise": "Tech / IT / IS",
+      "Team": "Team 3 / MyPet",
+      "Shift": "Morning"
+    },
+    {
+      "Name": "Lourensius Dani Anggara Putra",
+      "Photo": "https://dl.airtable.com/.attachments/aa773c338cc0d27bc00953b53fdfec57/619f63e3/LourensiusDani.jpg",
+      "Expertise": "Tech / IT / IS",
+      "Team": "Team 9 / Martian",
+      "Shift": "Morning"
+    },
+    {
+      "Name": "Octavianus Bastian Adhitama",
+      "Photo": "https://dl.airtable.com/.attachments/88a798426c44992c6cf8cb7c77bbdd6d/e33db25d/OctavianusBastian.jpg",
+      "Expertise": "Tech / IT / IS",
+      "Team": "Team 8 / Symphony no. 8",
+      "Shift": "Morning"
+    },
+    {
+      "Name": "Tito Guntur Safirda",
+      "Photo": "https://dl.airtable.com/.attachments/6762ce9908eb3c7f67718677f826b715/8fb303dc/TitoGuntur.jpg",
+      "Expertise": "Design",
+      "Team": "Team 5 / Art",
+      "Shift": "Morning"
+    },
+    {
+      "Name": "Yusuf Umar Hanafi",
+      "Photo": "https://dl.airtable.com/.attachments/53088e1f6196ecf6aed9373096f80501/844dc3e6/YusufUmar.jpg",
+      "Expertise": "Tech / IT / IS",
+      "Team": "Team 1 / As Swift As Possible",
+      "Shift": "Morning"
+    },
+    {
+      "Name": "Alfa Centaury Hidayatullah",
+      "Photo": "https://dl.airtable.com/.attachments/421d493dd99e4ca6c3260bfbd932fc6f/d9bd2550/AlfaCentaury.jpg",
+      "Expertise": "Tech / IT / IS",
+      "Team": "Team 2 / SOBSPORT",
+      "Shift": "Morning"
+    },
+    {
+      "Name": "Iqbal Maulana",
+      "Photo": "https://dl.airtable.com/.attachments/9797415d111ebe4450d6570eaaca5e88/63637af0/IqbalMaulana.jpg",
+      "Expertise": "Tech / IT / IS",
+      "Team": "Team 4 / Edtech",
+      "Shift": "Morning"
+    },
+    {
+      "Name": "Marsha Antonia",
+      "Photo": "https://dl.airtable.com/.attachments/d3bb3437fcdaea97635aeab9669d0f91/b2483e4f/MarshaAntonia.jpg",
+      "Expertise": "Design",
+      "Team": "Team 6 / Mansae",
+      "Shift": "Morning"
+    },
+    {
+      "Name": "Steven",
+      "Photo": "https://dl.airtable.com/.attachments/6c3af045e0bad10635c89af37762827b/33ff1e72/Steven.jpg",
+      "Expertise": "Tech / IT / IS",
+      "Team": "Team 3 / MyPet",
+      "Shift": "Morning"
+    },
+    {
+      "Name": "Adhitya Laksamana Bayu Adrian",
+      "Photo": "https://dl.airtable.com/.attachments/7e819832fb84e6fa72d39188803ca23f/fff915e8/AdhityaLaksamana.jpg",
+      "Expertise": "Tech / IT / IS",
+      "Team": "Team 8 / Symphony no. 8",
+      "Shift": "Morning"
+    },
+    {
+      "Name": "Helen Imanuel Hermanto",
+      "Photo": "https://dl.airtable.com/.attachments/7ec2584bab52f11b8093b775c0fde1bb/3cbf0707/HelenImanuel.jpg",
+      "Expertise": "Design",
+      "Team": "Team 5 / Art",
+      "Shift": "Morning"
+    },
+    {
+      "Name": "Octgi Ristya Perdana",
+      "Photo": "https://dl.airtable.com/.attachments/414683188e4ca98191875825f3675137/66486be3/OctgiRistya.jpg",
+      "Expertise": "Tech / IT / IS",
+      "Team": "Team 4 / Edtech",
+      "Shift": "Morning"
+    },
+    {
+      "Name": "Refo Satya Pramudhito",
+      "Photo": "https://dl.airtable.com/.attachments/318a322a2fe83102f9217bd66cef868a/0b950579/RefaSatya.jpg",
+      "Expertise": "Tech / IT / IS",
+      "Team": "Team 3 / MyPet",
+      "Shift": "Morning"
+    },
+    {
+      "Name": "Septia Rosalina Malik",
+      "Photo": "https://dl.airtable.com/.attachments/0e163daaaae0ba9fcd6106e6cb8215bb/485c3948/SeptiaRosiana.jpg",
+      "Expertise": "Tech / IT / IS",
+      "Team": "Team 6 / Mansae",
+      "Shift": "Morning"
+    },
+    {
+      "Name": "Aditya Agung Dwi R",
+      "Photo": "https://dl.airtable.com/.attachments/79cc10dc149223588d273036a285eda7/169959a0/AdityaAgung.jpg",
+      "Expertise": "Domain Expert (Keahlian Khusus)",
+      "Team": "Team 9 / Martian",
+      "Shift": "Morning"
+    },
+    {
+      "Name": "Dimas Satria Bintang Prakasa",
+      "Photo": "https://dl.airtable.com/.attachments/c5fab8a47f0e25d7c327a7b5c4f9f834/114dcbc3/DimasSatria.jpg",
+      "Expertise": "Tech / IT / IS",
+      "Team": "Team 10 / Arindra",
+      "Shift": "Morning"
+    },
+    {
+      "Name": "Novianto Hermawan",
+      "Photo": "https://dl.airtable.com/.attachments/fba02aa53a1169102c8b19c3b6dff807/f022be80/NoviantoHermawan.jpg",
+      "Expertise": "Tech / IT / IS",
+      "Team": "Team 8 / Symphony no. 8",
+      "Shift": "Morning"
+    },
+    {
+      "Name": "Ronaldo Kurswell",
+      "Photo": "https://dl.airtable.com/.attachments/be56f94d686cafb3d83cb59b17f5ca43/7d3371eb/RonaldoKurswell.jpg",
+      "Expertise": "Design",
+      "Team": "Team 5 / Art",
+      "Shift": "Morning"
+    },
+    {
+      "Name": "Elbert Reyner Gunawan",
+      "Photo": "https://dl.airtable.com/.attachments/08b2f8177b0cdb69ff9876d1a8e08c22/83b660c9/ElbertReyner.jpg",
+      "Expertise": "Design",
+      "Team": "Team 9 / Martian",
+      "Shift": "Morning"
+    },
+    {
+      "Name": "Felinda Gracia Lubis",
+      "Photo": "https://dl.airtable.com/.attachments/793d85215a4c8118e5c815854d5b3725/0ceb3359/FelindaGracia.jpg",
+      "Expertise": "Tech / IT / IS",
+      "Team": "Team 8 / Symphony no. 8",
+      "Shift": "Morning"
+    },
+    {
+      "Name": "Galang Aji Susanto",
+      "Photo": "https://dl.airtable.com/.attachments/6a55b399e32408839393c52bc97c5681/f7d54ef9/GalangAji.jpg",
+      "Expertise": "Tech / IT / IS",
+      "Team": "Team 7 / Food",
+      "Shift": "Morning"
+    },
+    {
+      "Name": "Natanael Kenan Gunawan",
+      "Photo": "https://dl.airtable.com/.attachments/4eeafeb8bd17cd54a6f91f5c2da3cae3/aa88bd16/NatanaelKenan.jpg",
+      "Expertise": "Tech / IT / IS",
+      "Team": "Team 2 / SOBSPORT",
+      "Shift": "Morning"
+    },
+    {
+      "Name": "Stephanie Hans Bunawan",
+      "Photo": "https://dl.airtable.com/.attachments/c5b1f8c54750c1c94715c27b0232d49e/352a01f6/StephanieHans.jpg",
+      "Expertise": "Domain Expert (Keahlian Khusus)",
+      "Team": "Team 3 / MyPet",
+      "Shift": "Morning"
+    },
+    {
+      "Name": "Gilbert Soenjaya Gunawan",
+      "Photo": "https://dl.airtable.com/.attachments/678fc5f1dbd46cd5562b495f03f4f33c/d8d7bc2c/GilbertSoenjaya.jpg",
+      "Expertise": "Domain Expert (Keahlian Khusus)",
+      "Team": "Team 10 / Arindra",
+      "Shift": "Morning"
+    },
+    {
+      "Name": "Rivera",
+      "Photo": "https://dl.airtable.com/.attachments/cc80665f3cf5eac8c30c92ed07e939fe/de33a1f1/Rivera.jpg",
+      "Expertise": "Design",
+      "Team": "Team 6 / Mansae",
+      "Shift": "Morning"
+    },
+    {
+      "Name": "Suwardhana",
+      "Photo": "https://dl.airtable.com/.attachments/0c3d73a4435a9eb0e49d0dd5aa0c8af8/9330984f/Suwardhana.jpg",
+      "Expertise": "Tech / IT / IS",
+      "Team": "Team 4 / Edtech",
+      "Shift": "Morning"
+    },
+    {
+      "Name": "William Roland Hernando",
+      "Photo": "https://dl.airtable.com/.attachments/3b57b6e7dd84886e2ac677ce89c4bd8d/70709714/WilliamRoland.jpg",
+      "Expertise": "Tech / IT / IS",
+      "Team": "Team 8 / Symphony no. 8",
+      "Shift": "Morning"
+    },
+    {
+      "Name": "Zuhad Achmad Fachrian",
+      "Photo": "https://dl.airtable.com/.attachments/8059f75e857c626ba6632882ef975e6c/45633f7b/ZuhadAchmad.jpg",
+      "Expertise": "Tech / IT / IS",
+      "Team": "Team 1 / As Swift As Possible",
+      "Shift": "Morning"
+    },
+    {
+      "Name": "Aucky Riman Halim",
+      "Photo": "https://dl.airtable.com/.attachments/0e00586a67f3e7d8169ee6b4a008f128/293b2860/AuckyRiman.jpg",
+      "Expertise": "Tech / IT / IS",
+      "Team": "Team 1 / As Swift As Possible",
+      "Shift": "Morning"
+    },
+    {
+      "Name": "Laviana Halim",
+      "Photo": "https://dl.airtable.com/.attachments/c1303b3fba98ac65a6e04302df461841/f44628e1/LavianaHalim.jpg",
+      "Expertise": "Design",
+      "Team": "Team 7 / Food",
+      "Shift": "Morning"
+    },
+    {
+      "Name": "Lidwina Santosa",
+      "Photo": "https://dl.airtable.com/.attachments/052436f596f6923503f2052da03153ee/64a4cc12/LidwinaSantosa.jpg",
+      "Expertise": "Domain Expert (Keahlian Khusus)",
+      "Team": "Team 10 / Arindra",
+      "Shift": "Morning"
+    },
+    {
+      "Name": "Namira Rizqi Annisa",
+      "Photo": "https://dl.airtable.com/.attachments/ef9d04653cd38a037613fed16596c3d6/a768363d/NamiraRizqi.jpg",
+      "Expertise": "Tech / IT / IS",
+      "Team": "Team 6 / Mansae",
+      "Shift": "Morning"
+    },
+    {
+      "Name": "Arles Halley Asaeli",
+      "Photo": "https://dl.airtable.com/.attachments/2bbe8f0c27f6f07b5ce3d8fe10e4919a/ff5347bb/ArlesHalley.jpg",
+      "Expertise": "Tech / IT / IS",
+      "Team": "Team 9 / Martian",
+      "Shift": "Morning"
+    },
+    {
+      "Name": "Chondro Satrio Wibowo",
+      "Photo": "https://dl.airtable.com/.attachments/bd419001e0957e8ef2fb903d938e2475/6bbcc565/ChondroSatrio.jpg",
+      "Expertise": "Tech / IT / IS",
+      "Team": "Team 1 / As Swift As Possible",
+      "Shift": "Morning"
+    },
+    {
+      "Name": "Edward Gunawan",
+      "Photo": "https://dl.airtable.com/.attachments/2610e075f60b7fe5d6ab65a43ed5784e/517fa772/EdwardGunawan.jpg",
+      "Expertise": "Design",
+      "Team": "Team 2 / SOBSPORT",
+      "Shift": "Morning"
+    },
+    {
+      "Name": "Marshel Aditya Prayoga",
+      "Photo": "https://dl.airtable.com/.attachments/d4aea258c185c48de3c3c48c262d8de0/9d775828/MarshelAditya.jpg",
+      "Expertise": "Tech / IT / IS",
+      "Team": "Team 2 / SOBSPORT",
+      "Shift": "Morning"
+    },
+    {
+      "Name": "Muhammad Hafiz Siregar",
+      "Photo": "https://dl.airtable.com/.attachments/0cdd938709c848f077152a7e14342867/42578c55/MuhammadHafiz.jpg",
+      "Expertise": "Tech / IT / IS",
+      "Team": "Team 4 / Edtech",
+      "Shift": "Morning"
+    },
+    {
+      "Name": "Ari Kurniawan",
+      "Photo": "https://dl.airtable.com/.attachments/88a107b698ff3e5ee88b3a3476616232/72172555/Ari.jpg",
+      "Shift": "Morning,Afternoon",
+      "Expertise": "Design",
+      "Team": ""
+    },
+    {
+      "Name": "Bayu Prasetya",
+      "Photo": "https://dl.airtable.com/.attachments/49de880ba3d963d874b810023ced7ae6/352cae86/Bayu.jpg",
+      "Shift": "Morning,Afternoon",
+      "Expertise": "Design",
+      "Team": ""
+    },
+    {
+      "Name": "Dickson Leonard",
+      "Photo": "https://dl.airtable.com/.attachments/dd7fef0e8a9adeca9a0bc0d4cd605b07/01c9b67e/Dickson.jpg",
+      "Shift": "Morning,Afternoon",
+      "Expertise": "Tech / IT / IS",
+      "Team": ""
+    },
+    {
+      "Name": "Fanny Halim",
+      "Photo": "https://dl.airtable.com/.attachments/638464c02c809d76d2c4cb1757f423c4/68717d2d/Fanny.jpg",
+      "Shift": "Morning,Afternoon",
+      "Expertise": "Tech / IT / IS",
+      "Team": ""
+    },
+    {
+      "Name": "Gabriele Wijasa",
+      "Photo": "https://dl.airtable.com/.attachments/46ba2d38325dcafe4ce75995388b2a0d/89a10f90/Gabriele.jpg",
+      "Shift": "Morning,Afternoon",
+      "Expertise": "Design",
+      "Team": ""
+    },
+    {
+      "Name": "Januar Tanzil",
+      "Photo": "https://dl.airtable.com/.attachments/5a9f43059fd7964538a6e5c4ac17ea7b/ad39c2ea/Januar.jpg",
+      "Shift": "Morning,Afternoon",
+      "Expertise": "Tech / IT / IS",
+      "Team": ""
+    },
+    {
+      "Name": "Jaya Pranata",
+      "Photo": "https://dl.airtable.com/.attachments/0e919395d5fdede3fbd00b0b4d72605b/abb76614/Jaya.jpg",
+      "Shift": "Morning,Afternoon",
+      "Expertise": "Tech / IT / IS",
+      "Team": ""
+    },
+    {
+      "Name": "John Alan Ketaren",
+      "Photo": "https://dl.airtable.com/.attachments/4fa8081d33a24fc215c9c4f6c7f4bed5/a436bcf6/Ketaren.jpg",
+      "Shift": "Morning,Afternoon",
+      "Expertise": "Domain Expert (Keahlian Khusus)",
+      "Team": ""
+    },
+    {
+      "Name": "Rachmat Kukuh Rahadiansyah",
+      "Photo": "https://dl.airtable.com/.attachments/b17c0cb619b420b77f14184511af398e/eadeb57f/Kukuh.jpg",
+      "Shift": "Morning,Afternoon",
+      "Expertise": "Tech / IT / IS",
+      "Team": ""
+    },
+    {
+      "Name": "Yehezkiel Cheryan Tjandra",
+      "Photo": "https://dl.airtable.com/.attachments/2989a62bb7048f7b858ec2be4c48c2f0/ceff93f1/Ryan.jpg",
+      "Shift": "Morning,Afternoon",
+      "Expertise": "Domain Expert (Keahlian Khusus)",
+      "Team": ""
+    },
+    {
+      "Name": "Yulibar Husni",
+      "Photo": "https://dl.airtable.com/.attachments/23973d60aef5497113f2ff21686da36c/fff6af34/Yulibar.jpg",
+      "Shift": "Morning,Afternoon",
+      "Expertise": "Tech / IT / IS",
+      "Team": ""
+    },
+  ]

@@ -1,0 +1,34 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "ACarousel",
+        "repositoryURL": "https://github.com/JWAutumn/ACarousel",
+        "state": {
+          "branch": null,
+          "revision": "8a322513580f21288fd87eb3a1341c247b3e2a76",
+          "version": "0.2.0"
+        }
+      },
+      {
+        "package": "HalfASheet",
+        "repositoryURL": "https://github.com/franklynw/HalfASheet",
+        "state": {
+          "branch": null,
+          "revision": "4f43296b3722082dd5735521ee0fbf25e61cd21c",
+          "version": "1.0.2"
+        }
+      },
+      {
+        "package": "URLImage",
+        "repositoryURL": "https://github.com/dmytro-anokhin/url-image",
+        "state": {
+          "branch": null,
+          "revision": "ccab89ad1cedb04f25dd4df1776dd8c8583b914a",
+          "version": "2.2.5"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
